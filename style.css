@@ -1,0 +1,15 @@
+#container{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+
+}
+.avtar-img img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: contain;
+}
+.text-1{
+    text-decoration: wavy;
+}
